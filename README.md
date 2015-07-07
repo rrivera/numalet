@@ -1,4 +1,4 @@
-# numalet [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# numalet [![NPM version][npm-image]][npm-url]
 > Convierte número decimal a letra
 
 
@@ -32,9 +32,3 @@ MIT © [Rubén Rivera Lomelí]()
 
 [npm-image]: https://badge.fury.io/js/numalet.svg
 [npm-url]: https://npmjs.org/package/numalet
-[travis-image]: https://travis-ci.org//numalet.svg?branch=master
-[travis-url]: https://travis-ci.org//numalet
-[daviddm-image]: https://david-dm.org//numalet.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org//numalet
-[coveralls-image]: https://coveralls.io/repos//numalet/badge.svg
-[coveralls-url]: https://coveralls.io/r//numalet
