@@ -1,0 +1,22 @@
+{
+  "name": "numalet",
+  "version": "0.1.0",
+  "description": "Convierte número decimal a letra (Español)",
+  "homepage": "https://github.com/Quetim/numalet",
+  "repository": "Quetim/numalet",
+  "author": {
+    "name": "Rubén Rivera Lomelí",
+    "email": "rrl@live.com.mx",
+    "url": "http://null.rocks"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "./lib/index.js",
+  "keywords": [
+    "numero",
+    "letra",
+    "parser"
+  ],
+  "license": "MIT"
+}
