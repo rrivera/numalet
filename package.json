@@ -1,6 +1,6 @@
 {
   "name": "numalet",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Convierte número decimal a letra (Español)",
   "homepage": "https://github.com/nullrocks/numalet",
   "repository": "nullrocks/numalet",
@@ -9,6 +9,12 @@
     "email": "rrl@live.com.mx",
     "url": "http://null.rocks"
   },
+  "contributors": [
+    {
+      "name": "Carlos Gonzales",
+      "url": "https://github.com/rhyek"
+    }
+  ],
   "files": [
     "lib"
   ],
